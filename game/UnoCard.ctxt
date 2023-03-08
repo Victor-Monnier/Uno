@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UnoCard
+comment1.params=color\ number
+comment1.target=UnoCard(UnoCard.CardColor,\ int)
+comment2.params=
+comment2.target=UnoCard\ createCard()
+comment3.params=
+comment3.target=java.awt.Color\ getCardColorAsColor()
+numComments=4
